@@ -1,5 +1,12 @@
 # Changelog
 
+## [20.35.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v20.35.0...v20.35.1) (2024-10-28)
+
+
+### Bug Fixes
+
+* **ignore:** Develco: Bind genBinaryInput cluster instead of genpolllctrl  ([#8209](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8209)) ([7923565](https://github.com/Koenkk/zigbee-herdsman-converters/commit/792356515c7a3aa5d58a1d0f72709baa575d994b))
+
 ## [20.35.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v20.34.0...v20.35.0) (2024-10-27)
 
 
